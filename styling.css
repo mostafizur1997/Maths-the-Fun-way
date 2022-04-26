@@ -21,3 +21,15 @@ h1 a{
 #search{
     float: right;
 }
+
+.text{
+    float: left;
+    width: 200px;
+    padding: 5px;
+    font-size: 15px;
+    
+
+}
+.submit{
+    float: right;
+}
