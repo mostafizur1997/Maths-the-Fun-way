@@ -7,9 +7,17 @@
 
 }
 
+#brand{
+    float: left;
+}
+
 h1 a{
     font-size: 50px;
     font-weight: 100;
     color: #861bbf;
     text-decoration: none;
+}
+
+#search{
+    float: right;
 }
