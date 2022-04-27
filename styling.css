@@ -101,3 +101,8 @@ ul{
 
 }
 
+#introduction p{
+    font-size: 25px;
+    color: #628F19;
+    text-align: justify;
+}
