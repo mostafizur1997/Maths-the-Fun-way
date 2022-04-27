@@ -122,7 +122,16 @@ ul{
     text-decoration: none;
     font-size: 20px;
     color: #5d12e7;
+    transition: font-size 0.3 ease;
 }
+
+.sidebar ul li a:hover, .sidebar ul li a.active{
+    text-decoration: none;
+    color: #B314DB;
+    font-size: 23px;
+    font-weight: bold;
+}
+
 #leftsidebar{
    float: left; 
 }
