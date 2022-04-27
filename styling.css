@@ -111,6 +111,11 @@ ul{
     width: 400px;
     border: 1px solid #BAF46F; 
     border-radius: 20px;
+    padding: 10px 30px;    
+}
+.sidebar h3{
+    color: #b314db;
+    font-size: 30px;
 }
 
 #leftsidebar{
