@@ -106,3 +106,15 @@ ul{
     color: #628F19;
     text-align: justify;
 }
+.sidebar{
+    height:500px ;
+    width: 400px;
+}
+
+#leftsidebar{
+   float: left; 
+}
+
+#rightsidebar{
+    float: right;
+}
