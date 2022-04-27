@@ -109,6 +109,8 @@ ul{
 .sidebar{
     height:500px ;
     width: 400px;
+    border: 1px solid #BAF46F; 
+    border-radius: 20px;
 }
 
 #leftsidebar{
