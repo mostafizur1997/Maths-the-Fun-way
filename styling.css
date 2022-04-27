@@ -86,6 +86,13 @@ ul{
     font-size: 20px;
     font-weight: bold;
     color: #b314db;
+}
 
+#introduction{
+    background: linear-gradient(#E5F2BB,#B7E952);
+    padding: 30px;
+    margin: 16px 0;
 
 }
+
+
