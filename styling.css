@@ -49,3 +49,7 @@ h1 a{
     background: #A751D6;
     font-size: 15px;
 }
+
+.clear{
+    clear: both;
+}
