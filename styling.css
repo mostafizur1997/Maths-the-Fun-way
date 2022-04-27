@@ -80,7 +80,7 @@ ul{
     font-size: 17px;
     color: #5d12e7;
     line-height: 30px;
-    
+    transition: font-size 0.3s ease;
 }
 #menu ul li a:hover, #menu ul li a.active{
     font-size: 20px;
