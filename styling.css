@@ -80,4 +80,12 @@ ul{
     font-size: 17px;
     color: #5d12e7;
     line-height: 30px;
+    
+}
+#menu ul li a:hover, #menu ul li a.active{
+    font-size: 20px;
+    font-weight: bold;
+    color: #b314db;
+
+
 }
