@@ -53,6 +53,31 @@ h1 a{
 .clear{
     clear: both;
 }
+
+#menu{
+    height: 70px;
+    background: linear-gradient(#F8F594, #D5D533);
+    padding: 7px 0;
+}
+
 ul{
     list-style: none;
+}
+#menu ul li:last-child{
+    border-right: none;
+
+}
+#menu ul li{
+    float: left;
+    padding: 0 30px;
+    height: 20px;
+    border-right: 1px solid #5d21e7;
+}
+
+#menu ul li a{
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 17px;
+    color: #5d12e7;
+    line-height: 30px;
 }
